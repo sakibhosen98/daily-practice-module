@@ -1,0 +1,43 @@
+[
+  {
+    "id": 1,
+    "name": "Starter Plan",
+    "price": 10,
+    "features": [
+      "5GB storage",
+      "1 website",
+      "24/7 support",
+      "Basic security features",
+      "Limited analytics"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Business Plan",
+    "price": 30,
+    "features": [
+      "50GB storage",
+      "5 websites",
+      "24/7 priority support",
+      "Advanced security features",
+      "Advanced analytics",
+      "SEO tools",
+      "Email marketing integration"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Enterprise Plan",
+    "price": 100,
+    "features": [
+      "100GB storage",
+      "Unlimited websites",
+      "24/7 VIP support",
+      "Custom security features",
+      "Full analytics suite",
+      "Advanced SEO tools",
+      "Advanced email marketing integration",
+      "Custom branding"
+    ]
+  }
+]
